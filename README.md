@@ -1,6 +1,6 @@
 ### Olá, me chamo Juan mas prefiro ser chamado apenas de Savedra. 👋
 
-- 🔭 Eu ainda não trabalho, mas estudo programação à um bom tempo.
+- 🔭 Eu ainda não trabalho, mas estudo programação há um bom tempo.
 - 🌱 Eu estou estudando tanto Front-End quanto Back-End.
 - :boom: Linguagens que mais tenho conhecimento atualmente (11/03/22): Javascript, Typescript, HTML5, CSS3 e C, com conhecimento em algumas bibliotecas como React por exemplo.
 - :memo: Linguagens que não tenho conhecimento, mas adoraria ter: Python, React-Native, Elixir, Go e NodeJS.  
