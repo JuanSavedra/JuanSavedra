@@ -2,13 +2,13 @@
 
 - 🔭 Eu ainda não trabalho, mas estudo programação há um bom tempo.
 - 🌱 Eu estou estudando tanto Front-End quanto Back-End.
-- :boom: Linguagens que mais tenho conhecimento atualmente (11/03/22): Javascript, Typescript, HTML5, CSS3 e C, com conhecimento em algumas bibliotecas como React por exemplo.
+- 💥 Linguagens que mais tenho conhecimento atualmente (11/03/22): Javascript, Typescript, HTML5, CSS3 e C, com conhecimento em algumas bibliotecas como React por exemplo.
 - :memo: Linguagens que não tenho conhecimento, mas adoraria ter: Python, React-Native, Elixir, Go e NodeJS.  
 - 💬 Sobre mim: Tenho 15 anos, moro em São Paulo, e sonho em me tornar um desenvolvedor Full-Stack.
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
-- ⚡ Fatos curiosos sobre mim: Conheço sobre programação desde os 8 anos e venho me aprofundando nessa área desde então, adoro robótica e faço parte de uma equipe indie de jogos.
-- :pushpin: Projetos que mais gostei de fazer: https://github.com/JuanSavedra/JavaScript - Projeto que fiz com o intuito de ajudar pessoas a aprender o básico de Javasript sem a ajuda de um curso com diversas aulas, basta abrir o script e começar a ler. https://github.com/JuanSavedra/WarrenClone - Foi minha primeira tentativa de recriar o Front-End de um site, tem diversas gambiarras e diversas partes que não funcionam corretamente (sim, pretendo refazer o projeto), mas eu gosto mesmo assim. 
+- ⚡ Fatos curiosos sobre mim: Conheço sobre programação desde os 8 anos e venho me aprofundando nessa área desde então, adoro robótica, adoro ler e escrever, gosto de criar histórias de RPGS de Mesa e faço parte de uma equipe indie de jogos.
+- 📌 Projetos que mais gostei de fazer: https://github.com/JuanSavedra/JavaScript - Projeto que fiz com o intuito de ajudar pessoas a aprender o básico de Javasript sem a ajuda de um curso com diversas aulas, basta abrir o script e começar a ler. https://github.com/JuanSavedra/WarrenClone - Foi minha primeira tentativa de recriar o Front-End de um site, tem diversas gambiarras e diversas partes que não funcionam corretamente (sim, pretendo refazer o projeto), mas eu gosto mesmo assim. 
 
 <div align="center">
   <a href="https://github.com/JuanSavedra">
