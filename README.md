@@ -2,7 +2,7 @@
 
 - 🔭 Eu ainda não trabalho, mas estudo programação há um bom tempo.
 - 🌱 Eu estou estudando tanto Front-End quanto Back-End.
-- 💥 Linguagens que mais tenho conhecimento atualmente (11/03/22): Javascript, Typescript, HTML5, CSS3 e C, com conhecimento em algumas bibliotecas como React por exemplo.
+- 💥 Linguagens que mais tenho conhecimento atualmente (11/03/22): Javascript, Typescript, HTML5 e CSS3, com conhecimento em algumas bibliotecas como React por exemplo.
 - :memo: Linguagens que não tenho conhecimento, mas adoraria ter: Python, React-Native, Elixir, Go e NodeJS.  
 - 💬 Sobre mim: Tenho 15 anos, moro em São Paulo, e sonho em me tornar um desenvolvedor Full-Stack.
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
