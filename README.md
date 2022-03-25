@@ -4,7 +4,7 @@
 - 🌱 Eu estou estudando tanto Front-End quanto Back-End.
 - 💥 Linguagens que mais tenho conhecimento atualmente (11/03/22): Javascript, Typescript, HTML5 e CSS3, com conhecimento em algumas bibliotecas como React por exemplo.
 - :memo: Linguagens que não tenho conhecimento, mas adoraria ter: Python, React-Native, Elixir, Go e NodeJS.  
-- 💬 Sobre mim: Tenho 15 anos, moro em São Paulo, e sonho em me tornar um desenvolvedor Full-Stack.
+- 💬 Sobre mim: Tenho 15 anos, moro em São Paulo, e sonho em me tornar um desenvolvedor Full-Stack/Back-End.
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
 - ⚡ Fatos curiosos sobre mim: Conheço sobre programação desde os 8 anos e venho me aprofundando nessa área desde então, adoro robótica, adoro ler e escrever, gosto de criar histórias de RPGS de Mesa e faço parte de uma equipe indie de jogos.
