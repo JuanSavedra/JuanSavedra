@@ -4,7 +4,7 @@
 - 🥇 Objetivo - Me tornar um desenvolvedor Full-Stack.
 - 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End.
 - 💥 Meus conhecimentos - Javascript, Typescript, HTML, CSS, Styled-Components, Sass, Git, Github, ReactJS e NextJS.
-- 📝 Linguagens que não tenho conhecimento, mas adoraria ter - Python, React-Native, Elixir, Go e NodeJS.  
+- 📝 Linguagens que não tenho conhecimento, mas adoraria ter - Python, React-Native, Elixir, Go, NodeJS e C#.  
 - 💬 Sobre mim - Tenho 16 anos, moro em São Paulo. Eu comecei a estudar programação em 2016, mexendo no scratch e no codewars, passei a programar jogos em Java aos 12, parti começar a mexer na Unity (Engine de jogos) aos 13, dei uma pausa no desenvolvimentos de jogos aos 15 para começar a estudar linguagens web, e ainda estou estudando, com foco em me tornar um desenvolvedor Full-Stack, mas ainda trabalho com jogos e estou no caminho de lançar um!
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
@@ -24,6 +24,7 @@
   <img align="center" alt="Savedra-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Savedra-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Savedra-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Savedra-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
 </div>
  
   ##
