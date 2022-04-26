@@ -5,7 +5,7 @@
 - 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End (Confesso que curto mais o Back-End).
 - 📑 O que eu já estudei, mas não gostei - ReactJS e NextJS
 - 📖 O que eu estudo - Javascript, Typescript, HTML, CSS, Git, Github.
-- 📝 Linguagens que não tenho conhecimento, mas adoraria ter - Python, React-Native, Elixir, Go, NodeJS, C e C#.  
+- 📝 Linguagens que não tenho conhecimento, mas adoraria ter - Python, Elixir, Go, NodeJS, C e C#.  
 - 💬 Sobre mim - Tenho 16 anos, moro em São Paulo. Eu comecei a estudar programação em 2016, mexendo no scratch e no codewars, passei a programar jogos em Java aos 12, parti começar a mexer na Unity (Engine de jogos) aos 13, dei uma pausa no desenvolvimentos de jogos aos 15 para começar a estudar linguagens web, e ainda estou estudando, com foco em me tornar um desenvolvedor Full-Stack.
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
