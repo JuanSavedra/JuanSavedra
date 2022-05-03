@@ -26,7 +26,6 @@
   <img align="center" alt="Savedra-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Savedra-SQl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Savedra-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Savedra-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
   <img align="center" alt="Savedra-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   ##
