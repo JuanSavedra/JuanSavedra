@@ -20,14 +20,14 @@
   <img align="center" alt="Savedra-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Savedra-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Savedra-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Savedra-Sass" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/sass.svg">
+  <img align="center" alt="Savedra-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Savedra-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Savedra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Savedra-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Savedra-SQl" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg">
-  <img align="center" alt="Savedra-PostgreSQL" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/postgresql.svg">
-  <img align="center" alt="Savedra-AWS" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/aws.svg">
-  <img align="center" alt="Savedra-Java" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/java.svg">
+  <img align="center" alt="Savedra-SQl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Savedra-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Savedra-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
+  <img align="center" alt="Savedra-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   ##
   
