@@ -20,6 +20,7 @@
   <img align="center" alt="Savedra-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Savedra-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Savedra-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Savedra-Sass" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-exqbk&psig=AOvVaw1ii6Uz2DAbuoecQC3b7WSf&ust=1651700784799000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCQtIenxPcCFQAAAAAdAAAAABAD">
   <img align="center" alt="Savedra-Sass" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/sass.svg">
   <img align="center" alt="Savedra-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Savedra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
