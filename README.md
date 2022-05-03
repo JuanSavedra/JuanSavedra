@@ -4,7 +4,7 @@
 - 🥇 Objetivo - Me tornar um desenvolvedor Full-Stack.
 - 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End (Confesso que curto mais o Back-End).
 - 📖 Meus conhecimentos - HTML, CSS, Javascript, Typescript, React, Styled-Components, Sass, C#, Git e Github.
-- 📝 Não tenho conhecimento, mas adoraria ter - Python, NodeJS, VueJS, SQL, PostgreSQl e Java.  
+- 📝 Não tenho conhecimento, mas adoraria ter - Python, NodeJS, VueJS, SQL, PostgreSQl, AWS e Java.  
 - 💬 Sobre mim - Tenho 16 anos, moro em São Paulo. Eu comecei a estudar programação em 2016, mexendo no scratch e no codewars, passei a programar jogos em Java aos 12, parti começar a mexer na Unity (Engine de jogos) aos 13, dei uma pausa no desenvolvimentos de jogos aos 15 para começar a estudar linguagens web, e ainda estou estudando, com foco em me tornar um desenvolvedor Full-Stack/Back-End.
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
@@ -15,12 +15,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSavedra&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Savedra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Savedra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Savedra-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Savedra-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Savedra-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Savedra-Sass" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/sass.svg">
+  <img align="center" alt="Savedra-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Savedra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Savedra-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Savedra-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Savedra-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Savedra-SQl" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg">
+  <img align="center" alt="Savedra-PostgreSQL" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/postgresql.svg">
+  <img align="center" alt="Savedra-AWS" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/aws.svg">
+  <img align="center" alt="Savedra-Java" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/java.svg">
   
   ##
   
