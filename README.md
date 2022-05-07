@@ -1,6 +1,6 @@
 ### Olá, me chamo Juan mas pode me chamar apenas de Savedra 👋
 
-- 🔭 Emprego - Eu ainda não trabalho, mas estudo programação há um bom tempo.
+- 🔭 Emprego - Desempregado.
 - 🥇 Objetivo - Me tornar um desenvolvedor Full-Stack.
 - 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End (Confesso que curto mais o Back-End).
 - 📖 Meus conhecimentos - HTML, CSS, Javascript, Typescript, React, Styled-Components, Sass, C#, Git e Github.
