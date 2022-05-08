@@ -2,10 +2,10 @@
 
 - 🔭 Emprego - Desempregado.
 - 🥇 Objetivo - Me tornar um desenvolvedor Full-Stack.
-- 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End (Confesso que curto mais o Back-End).
+- 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End.
 - 📖 Meus conhecimentos - HTML, CSS, Javascript, Typescript, React, Styled-Components, Sass, C#, Git e Github.
 - 📝 Não tenho conhecimento, mas adoraria ter - Python, NodeJS, VueJS, SQL, PostgreSQl, AWS e Java.  
-- 💬 Sobre mim - Tenho 16 anos, moro em São Paulo. Eu comecei a estudar programação em 2016, mexendo no scratch e no codewars, passei a programar jogos em Java aos 12, parti começar a mexer na Unity (Engine de jogos) aos 13, dei uma pausa no desenvolvimentos de jogos aos 15 para começar a estudar linguagens web, e ainda estou estudando, com foco em me tornar um desenvolvedor Full-Stack/Back-End.
+- 💬 Sobre mim - Tenho 16 anos e moro em São Paulo.
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
 
