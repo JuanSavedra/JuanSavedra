@@ -3,7 +3,7 @@
 - 🔭 Emprego - Desempregado.
 - 🥇 Objetivo - Me tornar um desenvolvedor Full-Stack.
 - 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End.
-- 📖 Meus conhecimentos - HTML, CSS, Javascript, Typescript, React, Styled-Components, Sass, C#, Git e Github.
+- 📖 Meus conhecimentos - HTML, CSS, Javascript, Typescript, C#, Git e Github.
 - 📝 Não tenho conhecimento, mas adoraria ter - Python, NodeJS, VueJS, SQL, PostgreSQl, AWS e Java.  
 - 💬 Sobre mim - Tenho 16 anos e moro em São Paulo.
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
