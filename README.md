@@ -4,7 +4,8 @@
 - 🥇 Objetivo - Me tornar um desenvolvedor Full-Stack.
 - 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End.
 - 📖 Meus conhecimentos - HTML, CSS, Javascript, Typescript, C#, Lua, Git e Github.
-- 📝 Não tenho conhecimento, mas adoraria ter - Python, NodeJS, VueJS, SQL, PostgreSQl, AWS e Java.  
+- 📝 Não tenho conhecimento, mas adoraria ter - Python, NodeJS, VueJS, SQL, PostgreSQl, AWS e Java. 
+- 📑 Linguagens/bibliotecas/frameworks que não gostei - React. 
 - 💬 Sobre mim - Tenho 16 anos, moro em São Paulo, já fiz jogos em Java, Gamemaker e Unity, mas atualmente estou criando em Roblox.
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
