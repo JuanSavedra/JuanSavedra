@@ -3,7 +3,7 @@
 - 🔭 Emprego - Desempregado.
 - 🥇 Objetivo - Me tornar um desenvolvedor Full-Stack.
 - 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End.
-- 💬 Sobre mim - Tenho 16 anos, moro em São Paulo, já fiz jogos em Java, Gamemaker e Unity, mas atualmente estou criando em Roblox.
+- 💬 Sobre mim - Tenho 16 anos, moro em São Paulo, desenvolvedor indie de jogos e desenvolvedor web (Back-end e Front-end).
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
 
