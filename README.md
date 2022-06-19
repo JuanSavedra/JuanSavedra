@@ -1,9 +1,10 @@
 ### Olá, me chamo Juan mas pode me chamar apenas de Savedra 👋
 
 - 🔭 Emprego - Desempregado.
-- 🥇 Objetivo - Me tornar um desenvolvedor Full-Stack.
-- 🌱 O que eu faço? - Atualmente estudo tanto Front-End quanto Back-End.
-- 💬 Sobre mim - Tenho 16 anos, moro em São Paulo, desenvolvedor indie de jogos e desenvolvedor web (Back-end e Front-end).
+- 🥇 Objetivo - Me tornar um Desenvolvedor Web.
+- 🌱 O que eu faço? - Estudo linguagens/bibliotecas/frameworks front-end.
+- 💬 Sobre mim - Tenho 16 anos, moro em São Paulo, e faço jogos nos tempos livres.
+- 🔗 Meu Likedin: https://www.linkedin.com/in/juan-savedra-11bb69218/
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
 
