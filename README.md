@@ -1,7 +1,7 @@
 ### Olá, me chamo Juan mas pode me chamar apenas de Savedra 👋
 
 - 🔭 Emprego - Desempregado.
-- 🥇 Objetivo - Me tornar um Desenvolvedor Web.
+- 🥇 Objetivo - Me tornar um Desenvolvedor Front-end, Back-end ou Full-stack.
 - 🌱 O que eu faço? - Estudo linguagens/bibliotecas/frameworks front-end.
 - 💬 Sobre mim - Tenho 16 anos, moro em São Paulo, e faço jogos nos tempos livres.
 - 🔗 Meu Likedin: https://www.linkedin.com/in/juan-savedra-11bb69218/
