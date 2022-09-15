@@ -9,11 +9,6 @@
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
 - 😄 Pronomes: Ele/Dele/O.
 
-<div align="flex-start">
-  <a href="https://github.com/JuanSavedra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanSavedra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSavedra&layout=compact&langs_count=7&theme=omni"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Savedra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Savedra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
