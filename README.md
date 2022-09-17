@@ -3,7 +3,7 @@
 - 🔭 Emprego - Desempregado.
 - 🥇 Objetivo - Me tornar um Desenvolvedor Front-end, Back-end ou Full-stack.
 - 🌱 O que eu faço? - Estudo linguagens/bibliotecas/frameworks front-end e back-end.
-- 📖 Conhecimentos: HTML, CSS, Javascript, Typescript, ReactJS, VueJS, SQL, Sass, Styled-Components, Git e Github.
+- 📖 Conhecimentos: HTML, CSS, Javascript, Typescript, VueJS, SQL, Sass, Styled-Components, Git e Github.
 - 💬 Sobre mim - Tenho 16 anos, moro em São Paulo, e crio jogos e RPGs de Mesa nos tempos livres.
 - 🔗 Meu Likedin: https://www.linkedin.com/in/juan-savedra-11bb69218/
 - 📫 Para me contatar, basta mandar mensagem neste email aqui -> juansavedra827@gmail.com.
