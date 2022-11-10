@@ -2,9 +2,9 @@
 
 - 😄 Pronomes: Ele/Dele/O.
 - 🔭 Emprego - Desempregado.
-- 🥇 Objetivo - Me tornar um Desenvolvedor Full-Stack ou um Desenvolvedor Python.
-- 🌱 O que eu faço? - Estudo programação em geral, mas com foco em Desenvolvimento Web e Python.
-- 📖 Conhecimentos: HTML, CSS, Javascript, VueJS, SQL, PostgreSQL, Python, Git, Github, Unity/C# (Game Engine).
+- 🥇 Objetivos - Me tornar um Desenvolvedor Web ou um Cientista de Dados.
+- 🌱 O que eu faço? - Estudo programação em geral, mas com foco em Desenvolvimento Web e Ciência de Dados.
+- 📖 Conhecimentos: HTML, CSS, Javascript, , Typescript, VueJS, SQL, PostgreSQL, Python, Git, Github, Unit e C# (Desenvolvimento de Jogos).
 - 💬 Sobre mim - Meu nome é Juan, tenho 16 anos e moro em São Paulo.
 - 🔗 Meu Likedin: https://www.linkedin.com/in/juan-savedra-11bb69218/
-- 📫 Email para contato: -> juansavedradev@gmail.com
+- 📫 Email para contato: -> juansavedra827@gmail.com
