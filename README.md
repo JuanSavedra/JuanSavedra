@@ -1,6 +1,6 @@
 ### Olá, me chamo Juan mas pode me chamar apenas de Savedra 👋
 
-- 🔭 Emprego - Desempregado.
+- 🔭 Emprego - Sem experiência na área.
 - 🥇 Objetivo - Atuar na área como desenvolvedor.
 - 🌱 O que eu faço? - Estudo programação em geral, mas com foco em Desenvolvimento Web.
 - 📖 Conhecimentos: HTML, CSS, Javascript, Bootstrap, SQL, Python, Java, Git e Github.
