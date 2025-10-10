@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, me chamo Juan Savedra</h1>
 <h3 align="center">Um futuro desenvolvedor Full-Stack</h3>
 
-- 🔭 Trabalhando em uma empresa de fertilizantes como Jovem Aprendiz. **Forth Jardim**
+- 🔭 Trabalhando em uma empresa de fertilizantes como Jovem Aprendiz. | **Forth Jardim**
 
-- 🌱 Aprendendo sempre sobre as mais recentes tecnologias do mercado **React, Typescript, Sass, Tailwind, Java, Spring Boot, NodeJS, Oracle, MySQL, PL/SQL, Git e Github**
+- 🌱 Aprendendo sempre sobre as mais recentes tecnologias do mercado. | **React, Typescript, Sass, Tailwind, Java, Spring Boot, NodeJS, Oracle, MySQL, PL/SQL, Git e Github**
 
 - 📫 Para me contatar, envie neste email: **juansavedra827@gmail.com**
 
