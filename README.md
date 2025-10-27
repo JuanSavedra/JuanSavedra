@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Juan mas pode me chamar apenas de Savedra 👋</h1>
 <h3 align="center">Um futuro desenvolvedor Full-Stack</h3>
 
-- 🔭 Emprego - Sem experiência na área.
+- 🔭 Emprego - Trabalho como PJ para a "datatorque.".
 - 🥇 Objetivo - Atuar na área como desenvolvedor.
 - 🌱 O que eu faço? - Estudo sobre programação na maior parte do tempo, foco em desenvolvimento full-stack e criação de jogos.
 - 📖 Conhecimentos em Linguagens de Programação: HTML, CSS, Javascript, Typescript, ReactJS, Bootstrap, Tailwind, SQL, PL/SQL, PostgreSQL, Oracle Database, Java, C#, C++, Git e Github.
