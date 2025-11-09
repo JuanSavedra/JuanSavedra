@@ -73,6 +73,11 @@ Projetos em destaque: [Website](https://www.datatorque.com.br/)
     <td>
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     </td>
@@ -114,6 +119,11 @@ Projetos em destaque: [Website](https://www.datatorque.com.br/)
     <td>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
