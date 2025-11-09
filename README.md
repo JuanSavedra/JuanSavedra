@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: `HTML`, `CSS`, `Javascript`, `Typescript`, `React`, `Bootstrap`, `Tailwind`, `SQL`, `PL/SQL`, `PostgreSQL`, `Oracle Database`, `Java`, `Spring Boot`, `C#`, `C++`, `Git` e `Github`.
+  🦄 Linguagens: HTML, CSS, Javascript, Typescript, React, Bootstrap, Tailwind, SQL, PL/SQL, PostgreSQL, Oracle Database, Java, Spring Boot, C#, C++, Git e Github.
 </p>
 
 <p align="left">
@@ -24,14 +24,9 @@
 
 ### Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-**Aprendiz Logístico** \
-• Forth Jardim \
-• Full-time \
-<br/>
-
-**Desenvolvedor Full-Stack Jr.** \
-• datatorque. \
-• PJ \
-Linguagens & Tecnologias: `Nextjs`, `Tailwind`, `Supabase`, `React Native`\
+**Desenvolvedor Full Stack Jr.** \
+[**datatorque.**](https://www.datatorque.com.br/) • PJ \
+Linguagens & Tecnologias: `React Native`, `Next`, `Tailwind`, `Supabase` \
+Projetos em destaque: [Website](https://www.datatorque.com.br/)
 <br/>
 <br/>
