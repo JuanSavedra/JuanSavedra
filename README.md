@@ -7,11 +7,10 @@
   - 🥇 Objetivo - Atuar na área como desenvolvedor. <br>
   - 🌱 O que eu faço? - Estudo sobre programação na maior parte do tempo, foco em desenvolvimento full-stack e criação de jogos. <br>
   - 📫 Portfólio -> https://portfolio-savedra.vercel.app/ <br>
-  - 📫 Email para contato -> juansavedra827@gmail.com <br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: **HTML, CSS, Javascript, Typescript, ReactJS, Bootstrap, Tailwind, SQL, PL/SQL, PostgreSQL, Oracle Database, Java, C#, C++, Git e Github.**
+  🦄 Linguagens: `HTML`, `CSS`, `Javascript`, `Typescript`, `React`, `Bootstrap`, `Tailwind`, `SQL`, `PL/SQL`, `PostgreSQL`, `Oracle Database`, `Java`, `Spring Boot`, `C#`, `C++`, `Git` e `Github`.
 </p>
 
 <p align="left">
@@ -21,9 +20,9 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
 
-### Experiência de trabalho
+## Experiência de trabalho
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+### Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 **Aprendiz Logístico** \
 • Forth Jardim \
