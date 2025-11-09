@@ -31,7 +31,18 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juan-savedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-savedra" height="30" width="40" /></a>
-</p>
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+**Aprendiz Logístico** \
+• Forth Jardim \
+• Full-time \
+<br/>
+
+**Desenvolvedor Full-Stack Jr.** \
+• datatorque. \
+• PJ \
+Linguagens & Tecnologias: `Nextjs`, `Tailwind`, `Supabase`, `React Native`\
+<br/>
+<br/>
