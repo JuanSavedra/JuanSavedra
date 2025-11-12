@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo Juan mas pode me chamar apenas de Savedra, Um futuro desenvolvedor <strong>Full-Stack</strong>.<br>
+  Olá, me chamo Juan mas pode me chamar apenas de Savedra, um futuro desenvolvedor <strong>Full-Stack</strong>.<br>
   Cursando Análise e Desenvolvimento de Sistemas na FIAP! <br>
   - 🔭 Emprego - Trabalho como PJ para a "datatorque." e CLT na Forth Jardim. <br>
   - 🥇 Objetivo - Atuar na área como desenvolvedor. <br>
