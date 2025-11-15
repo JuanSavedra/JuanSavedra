@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, Javascript, Typescript, React, Bootstrap, Tailwind, SQL, PL/SQL, PostgreSQL, Oracle Database, Java, Spring Boot, C#, C++, Git e Github.
+  🦄 Tecnologias: React, Typescript, Bootstrap, Tailwind, SQL, PL/SQL, PostgreSQL, Docker, Oracle, Firebase, Supabase Java, Spring Boot, C#, C++, Git e Github.
 </p>
 
 <p align="left">
