@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: React, Typescript, Bootstrap, Tailwind, C#, Java, Spring Boot, SQL.
+  🦄 Tecnologias: React.js, Next.js, Typescript, Bootstrap, Tailwind, C#, Java, Spring Boot, SQL.
 </p>
 
 <p align="left">
