@@ -5,7 +5,7 @@
 <p align="left"> 
   Olá, me chamo Juan mas pode me chamar apenas de Savedra, um futuro desenvolvedor <strong>Full-Stack</strong>.<br>
   Cursando Análise e Desenvolvimento de Sistemas na FIAP! <br>
-  - 🔭 Emprego - Trabalho como PJ para a "datatorque." (Desenvolvedor Full Stack Jr) e CLT na Forth Jardim (Aprendiz Logístico). <br>
+  - 🔭 Emprego - Desenvolvedor Full-Stack Jr na datatorque. <br>
   - 🥇 Objetivo - Atuar na área como desenvolvedor. <br>
   - 🌱 O que eu faço? - Estudo sobre programação na maior parte do tempo, foco em desenvolvimento full-stack. <br>
   - 📫 Portfólio -> https://portfolio-savedra.vercel.app/ <br>
