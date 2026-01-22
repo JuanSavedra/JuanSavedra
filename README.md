@@ -1,26 +1,48 @@
-## Sobre
+# Olá, eu sou o Juan Savedra! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+Engenheiro de Software focado em construir soluções robustas, escaláveis e de alta performance. Atualmente, atuo como **Desenvolvedor Full Stack Jr. na datatorque**.
 
-<p align="left"> 
-  Olá, me chamo Juan mas pode me chamar apenas de Savedra, um futuro desenvolvedor <strong>Full-Stack</strong>.<br>
-  Cursando Análise e Desenvolvimento de Sistemas na FIAP! <br>
-  - 🔭 Emprego - Desenvolvedor Full-Stack Jr na datatorque. <br>
-  - 🥇 Objetivo - Atuar na área como desenvolvedor. <br>
-  - 🌱 O que eu faço? - Estudo sobre programação na maior parte do tempo, foco em desenvolvimento full-stack. <br>
-  - 📫 Portfólio -> https://portfolio-savedra.vercel.app/ <br>
-</p>
+Minha jornada na programação iniciou-se aos 12 anos de idade, movida pela curiosidade de criar meus próprios jogos. Hoje, essa paixão evoluiu para a arquitetura de sistemas complexos, onde priorizo fundamentos de engenharia, qualidade de código e automação.
 
-<p align="left">
-  🦄 Tecnologias: React.js, Next.js, Typescript, Bootstrap, Tailwind, C#, Java, Spring Boot, SQL.
-</p>
+---
 
-<p align="left">
-  <a href="mailto:juansavedra827@gmail.com title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/juan-savedra/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
+### 🚀 Tecnologias e Ferramentas
+
+#### **Back-end**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### **Front-end & Mobile**
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+#### **Dados & Infraestrutura**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF9900?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### **Qualidade & Testes**
+- ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+---
+
+### 🧠 Filosofia de Desenvolvimento
+
+* **Fundamentos sobre Tendências:** Dedico-me ao estudo de estruturas de dados, algoritmos e padrões de projeto (Design Patterns).
+* **Cultura de Testes:** Acredito que código sem teste é código inacabado. Experiência prática com testes unitários e de integração.
+* **Automação:** Foco em pipelines de CI/CD para garantir entregas contínuas e seguras.
+
+---
+
+### 📫 Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-savedra/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juansavedra827@gmail.com)
 
 ## Experiência de trabalho
 
@@ -53,94 +75,5 @@ Projetos em destaque: [Website](https://www.datatorque.com.br/)
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-    </td>
-  </tr>
-</table>
+---
+*"Estudar não é apenas uma necessidade profissional, é o meu passatempo favorito."*
