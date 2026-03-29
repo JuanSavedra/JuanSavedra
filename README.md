@@ -32,14 +32,6 @@ Minha jornada na programação iniciou-se aos 12 anos de idade, movida pela curi
 
 ---
 
-### 🧠 Filosofia de Desenvolvimento
-
-* **Fundamentos sobre Tendências:** Dedico-me ao estudo de estruturas de dados, algoritmos e padrões de projeto (Design Patterns).
-* **Cultura de Testes:** Acredito que código sem teste é código inacabado. Experiência prática com testes unitários e de integração.
-* **Automação:** Foco em pipelines de CI/CD para garantir entregas contínuas e seguras.
-
----
-
 ### 📫 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-savedra/)
