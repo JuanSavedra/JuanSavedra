@@ -37,15 +37,6 @@ Meu foco aqui muitas vezes é criar soluções gratuitas que qualquer pessoa pos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-savedra/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juansavedra827@gmail.com)
 
-## Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-**Desenvolvedor Full Stack Jr.** \
-[**datatorque.**](https://www.datatorque.com.br/) • PJ \
-Linguagens & Tecnologias: `React Native`, `Next`, `Tailwind`, `Supabase` \
-Projetos em destaque: [Website](https://www.datatorque.com.br/)
-<br/>
 <br/>
 
 <table>
