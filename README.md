@@ -1,8 +1,8 @@
-# Olá, eu sou o Juan Savedra! 👋
+# Olá, me chamo Juan mas pode me chamar apenas de **Savedra**
 
-Engenheiro de Software focado em construir soluções robustas, escaláveis e de alta performance. Atualmente, atuo como **Desenvolvedor Full Stack Jr. na datatorque**.
+Meu GitHub serve todas ideias de projetos que veem a minha mente, sejam eles projetos profissionais, de estudo, ou simplesmente por que bateu a curiosidade.
 
-Minha jornada na programação iniciou-se aos 12 anos de idade, movida pela curiosidade de criar meus próprios jogos. Hoje, essa paixão evoluiu para a arquitetura de sistemas complexos, onde priorizo fundamentos de engenharia, qualidade de código e automação.
+Meu foco aqui muitas vezes é criar soluções gratuitas que qualquer pessoa possa usar, e assim, conseguir ajudar o maior número de pessoas possíveis.
 
 ---
 
